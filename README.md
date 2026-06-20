@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**DagmawiZelelew/DagmawiZelelew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Dagmawi 👋
 
-Here are some ideas to get you started:
+## About Me
+- Aspiring Software Engineer
+- Interested in Cybersecurity and AI
+- Currently learning Software Development and System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## Skills
+- Python
+- Git & GitHub
+- HTML & CSS
+- Cybersecurity Fundamentals
+
+## Current Projects
+- On progress
+  
+## Learning Goals
+- Master Full Stack development
+- Learn Ethical Hacking
+- Build Real-World Projects
+
+## Contact
+- Email: dagipeacu@example.com
+
 - ⚡ Fun fact: ...
 -->
