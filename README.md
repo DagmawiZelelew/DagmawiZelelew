@@ -23,5 +23,3 @@
 ## Contact
 - Email: dagipeacu@example.com
 
-- ⚡ Fun fact: ...
--->
